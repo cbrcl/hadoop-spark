@@ -1,16 +1,16 @@
 ## Introducción
-El presente trabajo tiene por objeto realizar un ejercicio práctico de explotación de datos, particularmente utilizando herramientas relacionadas con Big Data como Hadoop.
+El presente trabajo tiene por objeto realizar un ejercicio práctico de explotación de datos, particularmente utilizando herramientas relacionadas con Big Data como Hadoop y Spark.
 
 En nuestro caso el hemos definido la siguiente situación:
 
 La bolsa de comercio de Chile pone a disposición del público las serie de datos de las acciones transadas en bolsa para los últimos 10 años. Esta información disponible se entrega como un descargable CSV (separado por “;”) con los siguientes datos:
 
-Fecha: fecha de transacción
-Open: valor de apertura de la acción
-High: valor máximo alcanzado por la acción
-Low: valor mínimo alcanzado por la acción
-Close: valor de cierre de la acción
- Volume: volumen de transacciones de la acción
+* Fecha: fecha de transacción
+* Open: valor de apertura de la acción
+* High: valor máximo alcanzado por la acción
+* Low: valor mínimo alcanzado por la acción
+* Close: valor de cierre de la acción
+* Volume: volumen de transacciones de la acción
 
 Resulta interesante poder analizar si existe alguna relación entre las alzas o bajas de los valores de las acciones.
 
