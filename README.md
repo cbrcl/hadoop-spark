@@ -22,6 +22,9 @@ El presente trabajo es solo exploratorio y busca servir de primer paso hacia la 
 
 ## Referencias
 
+Libros en pdf:
+* http://khnai.dyndns.org:18080/downloads/HadoopTheDefinitiveGuide4.pdf
+* http://khnai.dyndns.org:18080/downloads/IntroductionToStatisticalLearningWithR.pdf
 
 Sitios web con instrucciones para construcción de un cluster hadoop y spark con raspberrys:
 * https://tekmarathon.com/2017/02/15/hadoop-and-spark-installation-on-raspberry-pi-3-cluster-part-1/
