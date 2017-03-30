@@ -23,9 +23,9 @@ El presente trabajo es solo exploratorio y busca servir de primer paso hacia la 
 ## Referencias
 
 Libros en pdf:
-* (Hanndbook de Hadoop) [https://1drv.ms/b/s!AvDC_LMtrC3ogsFpvIZLhx1qNAbTvw]
-* (Introduction To Statistical Learning With R)[https://1drv.ms/b/s!AvDC_LMtrC3o5yCOq5-nCbgfStGg]
-* (Learning Spark)[https://1drv.ms/b/s!AvDC_LMtrC3ogsFxv8wOjIl5xbzN4g]
+* [Hanndbook de Hadoop](https://1drv.ms/b/s!AvDC_LMtrC3ogsFpvIZLhx1qNAbTvw)
+* [Introduction To Statistical Learning With R](https://1drv.ms/b/s!AvDC_LMtrC3o5yCOq5-nCbgfStGg)
+* [Learning Spark](https://1drv.ms/b/s!AvDC_LMtrC3ogsFxv8wOjIl5xbzN4g)
 
 
 Sitios web con instrucciones para construcción de un cluster hadoop y spark con raspberrys:
